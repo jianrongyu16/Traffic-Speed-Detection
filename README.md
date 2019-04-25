@@ -1,2 +1,2 @@
 # Traffic-Speed-Detection
-Go to py
+2019 EECS442 Final Project
