@@ -1,2 +1,3 @@
 # Traffic-Speed-Detection
-2019 EECS442 Final Project
+Reference: https://github.com/ayooshkathuria/pytorch-yolo-v3
+           https://github.com/ZidanMusk/experimenting-with-sort
